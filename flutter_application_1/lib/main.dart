@@ -10,7 +10,7 @@ const List<String> tourImages = [
   'https://picsum.photos/id/1039/400/600',
   'https://picsum.photos/id/1043/400/600',
 ];
-
+//
 // 1 foto besar di bagian paling bawah
 const String bigImage = 'https://picsum.photos/id/1036/900/600';
 
